@@ -1,0 +1,18 @@
+# Chrome Extension specific
+*.crx
+*.pem
+*.zip
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node specific (if you add npm later)
+node_modules/
+package-lock.json 
