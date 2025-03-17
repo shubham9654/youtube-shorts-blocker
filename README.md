@@ -24,10 +24,6 @@ The extension works automatically once installed. You don't need to do anything 
 - Search results
 - Any other YouTube page
 
-## Note
-
-You'll need to add icon files (icon48.png and icon128.png) to the extension directory for the extension to display properly in Chrome. You can create your own icons or use placeholder images.
-
 ## License
 
 MIT License 
